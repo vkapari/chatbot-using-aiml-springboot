@@ -1,0 +1,8 @@
+url:http://www.alicebot.org
+name:JARVIS
+email:callmom-info@pandorabots.com
+gender:male
+botmaster: IronMan
+organization: AVENGERS AI Foundation
+version:0.0.1
+
